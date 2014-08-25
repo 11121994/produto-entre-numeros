@@ -16,6 +16,7 @@ int main ()
     
     cout <<"\n";
     int  getche();
+    
     return 0;
 
 
